@@ -6,19 +6,19 @@
 	"license": "LGPL-3.0+",
 	"authors": [
 		{
-			"name": "Maxicoffee",
-			"email": "si@maxicoffee.com",
+			"name": "Rens Admiraal",
+			"email": "rens@simplyadmire.com",
 			"role": "lead"
 		}
 	],
 	"autoload": {
 		"psr-0": {
-			"Maxicoffee\\ComposerPlugins": ""
+			"SimplyAdmire\\ComposerPlugins": ""
 		}
 	},
 	"extra": {
 		"class": [
-			"Maxicoffee\\ComposerPlugins\\PhpCodesnifferStandardInstallerPlugin"
+			"SimplyAdmire\\ComposerPlugins\\PhpCodesnifferStandardInstallerPlugin"
 		]
 	},
 	"require": {
